@@ -18,7 +18,7 @@
 
 - 📍 Presented at **ICAMADA 2024** (International Conference on Applied Mathematics and Advanced Data Analytics for Industry 5.0)
 - 🏫 Department of CS Engineering – AI & ML, KG Reddy College of Engineering and Technology, Hyderabad
-- 📦 Built in collaboration with **ISRO's Codelab** initiative
+- 📦 Developed during an internship at NRSC-ISRO as part of geospatial data processing and analysis initiatives.
 
 ---
 
