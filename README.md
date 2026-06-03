@@ -1,6 +1,6 @@
 # 🛰️ GeoLens
 
-> **IEEE Published Research** — A Python library for satellite imagery processing and deep learning segmentation, developed at **ISRO** and presented at **ICAMADA 2024**.
+> **Conference Presentation  - GeoLens ** — A Python library for satellite imagery processing and deep learning segmentation, developed at **ISRO** and presented at **ICAMADA 2024**.
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3670A0?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
@@ -10,13 +10,13 @@
 
 ---
 
-## 📄 Publication
+## 📄 Conference Presentation
 
 **"GeoLens: Enhanced Geo Dataset Orchestration Library for Pythonic Implementation"**
 
 > Janavi Nathwani, Samvram Sahu, Jayasri PV, Usha Sundari HSV Rayali, Yerragudipadu Subbarayudu
 
-- 📍 Presented at **ICAMADA 2024** (International Conference on Advanced Machine Learning and Data Analytics)
+- 📍 Presented at **ICAMADA 2024** (International Conference on Applied Mathematics and Advanced Data Analytics for Industry 5.0)
 - 🏫 Department of CS Engineering – AI & ML, KG Reddy College of Engineering and Technology, Hyderabad
 - 📦 Built in collaboration with **ISRO's Codelab** initiative
 
