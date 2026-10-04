@@ -194,7 +194,7 @@ for Pythonic Implementation," ICAMADA 2024.
 
 **Janavi Nathwani** — AI Engineer, Hyderabad
 
-Built Ventsa (Voice AI SaaS) · IEEE Published Researcher · ISRO ML Intern · LLM Integration
+Janavi Nathwani · Founder & AI Engineer, Ventsa · Former Geospatial AI Intern, NRSC-ISRO · Presented at ICAMADA 2024
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jahnavi-nathwani)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail)](mailto:janavi.nathwani9@gmail.com)
