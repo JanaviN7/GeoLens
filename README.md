@@ -1,6 +1,6 @@
 # 🛰️ GeoLens
 
-> **Conference Presentation  - GeoLens ** — A Python library for satellite imagery processing and deep learning segmentation, developed at **ISRO** and presented at **ICAMADA 2024**.
+> **Conference Presentation  - GeoLens** — A Python library for satellite imagery processing and deep learning segmentation, developed at **ISRO** and presented at **ICAMADA 2024**.
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3670A0?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
