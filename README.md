@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3670A0?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![IEEE](https://img.shields.io/badge/Published-IEEE%20ICAMADA%202024-00629B?style=flat-square&logo=ieee&logoColor=white)]()
+![ICAMADA](https://img.shields.io/badge/Presented-ICAMADA%202024-00629B?style=flat-square)
 [![ISRO](https://img.shields.io/badge/Built%20At-ISRO-FF6B35?style=flat-square)](https://www.isro.gov.in)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square)](LICENSE)
 
